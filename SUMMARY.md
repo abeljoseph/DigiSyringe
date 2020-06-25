@@ -1,5 +1,7 @@
 # Table of contents
 
-* [README.md](README.md)
-* [Untitled](untitled.md)
+* [README](README.md)
+* [Second page](untitled.md)
+* [How to create a for loop](how-to-create-a-for-loop.md)
+* [Tabs](tabs.md)
 

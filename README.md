@@ -1,4 +1,4 @@
-# README.md
+# README
 
 ## Getting Super Powers
 
