@@ -22,8 +22,8 @@ for i in range(5):
 | Item | Item2 |
 | Item3 | Item4 |
 
-{% hint style="info" %}
-Hints
+{% hint style="warning" %}
+Hint: You must reverse a linked list
 {% endhint %}
 
 
